@@ -7,4 +7,5 @@ https://warpproject.org/trac/browser/ResearchApps/PHY/WARPLAB/WARPLab7/M_Code_Ex
 
 Please cite the following paper:
 
-K. A. Alaghbari, H. -S. Lim, N. H. A. Aziz, T. Bhuvaneswari and T. H. Oh, "Design and Validation of the Physical Layer Functions of FBMC/OQAM Transceiver with Improved Residual Phase Error Correction," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3205405.
+K. A. Alaghbari, H. -S. Lim, N. H. A. Aziz, T. Bhuvaneswari and T. H. Oh, "Design and Validation of the Physical Layer Functions of FBMC/OQAM Transceiver With Improved Residual Phase Error Correction," in IEEE Access, vol. 10, pp. 97381-97393, 2022, doi: 10.1109/ACCESS.2022.3205405. https://ieeexplore.ieee.org/document/9882050
+
